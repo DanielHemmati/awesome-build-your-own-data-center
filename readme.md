@@ -1,6 +1,6 @@
 # Awesome "Build Your Own Data Center"
 
-<figure style="text-align: cenrer;">
+<figure style="text-align: center;">
   <img src="./images/comma.webp" alt="comma.ai data center">
   <figcaption><em>Comma.ai Data center</em></figcaption>
 </figure>
